@@ -1,6 +1,6 @@
 <div align="right">
 
-📋 **Позиція:** &nbsp;**PM / Проєктний менеджер**&nbsp; | &nbsp;[CEO / COO](README_COO_UA.md)
+📋 **Позиція:** &nbsp;**PM / Проєктний менеджер**&nbsp; | &nbsp;
 
 🌐 **Мова:** &nbsp;[EN](README_PM_EN.md)&nbsp; | &nbsp;[DE](README_PM_DE.md)&nbsp; | &nbsp;**UA**
 
