@@ -1,6 +1,6 @@
 <div align="right">
 
-📋 **Position:** &nbsp;**PM / Produktmanager**&nbsp; | &nbsp;[CEO / COO](README_COO_DE.md)
+📋 **Position:** &nbsp;**PM / Produktmanager**&nbsp; | &nbsp;
 
 🌐 **Language:** &nbsp;[EN](README_PM_EN.md)&nbsp; | &nbsp;**DE**&nbsp; | &nbsp;[UA](README_PM_UA.md)
 
